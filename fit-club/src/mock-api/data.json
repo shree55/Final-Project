@@ -1,17 +1,17 @@
 {
   "users": [
     {
-      "email": "sreeja1@gmail.com",
+      "email": "shreeja1@gmail.com",
       "password": "$2a$10$3SPrmTJTLqXYnsw8AoeFE.Az9dtr09Ar2DWG1squ7.D3Gxo2LZLs2",
-      "username": "sreeja",
+      "username": "shreeja",
       "type": "user",
       "lastname": "1",
       "id": 1
     },
     {
-      "email": "sreeja2@gmail.com",
+      "email": "shreeja2@gmail.com",
       "password": "$2a$10$EeQlEWAa27kpTvVThpkQye1lRXD6KmBSeW6TEMeZCRAD8NnO3ckmu",
-      "username": "sreeja",
+      "username": "shreeja",
       "type": "admin",
       "lastname": "2",
       "id": 2
@@ -19,39 +19,25 @@
   ],
   "club-registration": [
     {
-      "id": 1,
-      "name": "imel",
-      "Address": "ddd",
-      "email": "imel@gmail.com",
-      "activity": "Super Hot"
+      "name": "Deepa",
+      "address": "Chennai",
+      "email": "deepa@gmail.com",
+      "activity": "Yoga",
+      "id": 1
     },
     {
-      "name": "vibi",
-      "address": "dddd",
-      "email": "vibeshnan2319@gmail.com",
-      "activity": "Super Flexible",
+      "name": "Shilpa",
+      "address": "Chennai",
+      "email": "shilpa@gmail.com",
+      "activity": "Crossfit",
       "id": 2
     },
     {
-      "name": "KK",
-      "address": "ghfhfhf",
-      "email": "vibi@hjh",
-      "activity": "Super Flexible",
-      "id": 3
-    },
-    {
-      "name": "santhosh",
-      "address": "sssssss",
-      "email": "vibeshnan2319@gmail.com",
-      "activity": "Super Flexible",
-      "id": 4
-    },
-    {
-      "name": "bharu",
-      "address": "sssssssss",
-      "email": "cf@cc.com",
+      "name": "Disha",
+      "address": "Chennai",
+      "email": "disha@gmail.com",
       "activity": "GYM",
-      "id": 5
+      "id": 3
     }
   ]
 }
