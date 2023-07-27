@@ -1,0 +1,10 @@
+.programs:hover{
+  box-shadow: rgb(170, 170, 170) 0px 5px 15px;
+  cursor: pointer;
+}
+.slider
+{
+  text-align: center;
+  margin-bottom: 16px;
+  color: aliceblue;
+}
